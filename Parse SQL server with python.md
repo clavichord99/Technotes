@@ -1,5 +1,10 @@
 #Parse SQL with Python
 
+_test_
+__test__
+*test*
+**test**
+
 ##Basic info
 User pypyodbc
 > pip3 install pypyodbc
